@@ -10,6 +10,17 @@ Premade Study Lists: Access curated kanji study lists organized by common themes
 Authentication System: Secure login and registration functionality using Django's auth framework.
 Tech Stack:
 
+Video Demo:
+
+https://github.com/user-attachments/assets/5c2a5729-98f5-4186-93a6-02f22379a1f5
+
+
+https://github.com/user-attachments/assets/eaa2e777-e76f-42e8-b232-4c3ebf2cd497
+
+
+
+
+
 Frontend: React.js, JavaScript, HTML, CSS
 Backend: Django, Python, Django REST Framework
 
